@@ -7,7 +7,7 @@ type HijoProps = {
 export default function Hijo({ children }: HijoProps) {
     return (
         <div>
-            este es mi hijo {children}
+            este no  es mi hijo {children}
         </div>
     );
 }
